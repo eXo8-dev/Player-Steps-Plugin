@@ -1,0 +1,14 @@
+resource-pack: "https://www.dropbox.com/scl/fi/nxq2aefr4zk1fnk9b9b2l/Step-RP.zip?rlkey=sjqszylbl70d2tlxo0qbbrq5d&st=21t44vxx&dl=1"
+
+# font
+font: "✪"
+
+# random offset
+random-offset: 0.256
+base-step: 0.24
+
+# in second
+removal-time: 15
+
+# step interval
+min-step-block-interval: 0.9

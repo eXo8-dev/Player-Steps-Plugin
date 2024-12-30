@@ -1,0 +1,16 @@
+name: PlayerSteps
+version: '1.0'
+main: me.eXo8_.playerSteps.PlayerSteps
+api-version: '1.21'
+authors: [ eXo8_ ]
+description: When you put up the sign, the GUI will be gone.
+
+commands:
+  player-steps:
+    aliases: ps
+    usage: /ps reload
+    permission: playersteps.reload
+
+permissions:
+  playersteps.reload:
+    default: false
